@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"cost-estimate","permalink":"/cost-estimate/"}
+{"dg-publish":true,"dg-permalink":"cost-estimate","permalink":"/cost-estimate/","dgHomeLink":false}
 ---
 
 # Cost estimate
@@ -20,7 +20,16 @@ Hence, 3 months after the completion of all apps, when the apps are stable I'd b
 That'll be **$15/month/device**(t-shirt print machines).
 
 ## Payment
-You can pay me $1,000 upfront to cover initial costs. You can use Wise to transfer funds. If you don't already have a Wise account, you can [sign up here](https://wise.com/invite/ua/ganapathys25).
+I'd need $1,000 upfront to cover initial costs. You can pay me in three instalments,
+
+| Instalment | Details                                                                                                                                       | Amount  |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| First      | Upfront cost & advance to start working                                                                                                       | $1,000  |
+| Second     | After first working prod release. At this stage, linx log reader app will be ready & from web app you can monitor per hour productivity stats | $6,500  |
+| Third      | QC app release. At this stage, all work must have been completed                                                                              | $10,000 |
+
+
+You can use Wise to transfer funds. If you don't already have a Wise account, you can [sign up here](https://wise.com/invite/ua/ganapathys25).
 
 After signing up, provide the details they may require.
 
