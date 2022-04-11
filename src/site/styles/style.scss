@@ -68,3 +68,13 @@ blockquote:before {
 blockquote p {
     display: inline;
 }
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    padding: 4px 10px;
+    border: 1px solid #3d3d3d;
+}
