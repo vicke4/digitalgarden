@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/work/freelancing/cost-estimation/"}
+{"dg-publish":true,"dg-permalink":"cost-estimate","permalink":"/cost-estimate/"}
 ---
 
 # Cost estimate
