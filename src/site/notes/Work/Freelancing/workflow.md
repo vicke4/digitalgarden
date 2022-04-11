@@ -52,4 +52,4 @@ All analytics, reports generated from the data collected from the above two apps
 
 You can also cast this on a TV at your office :)
 
-Now, you can know the [[cost-estimation | cost estimate]].
+Now, you can know the [cost-estimation](https://ganapa.netlify.app/cost-estimate/).
