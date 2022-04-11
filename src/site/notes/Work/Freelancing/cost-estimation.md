@@ -46,3 +46,7 @@ Now, from their dashboard. click on **Send money**, the recipient current should
 | Postal Code                   | 560102                                                                           |
 | Bank details - IFSC code      | SBIN0011062                                                                      |
 | Bank details - Account number | 20186938614                                                                      |
+
+The above details are enough for you to wire the payment.
+
+Thank you!
