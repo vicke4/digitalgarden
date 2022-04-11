@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"workflow","permalink":"/workflow/"}
+{"dg-publish":true,"dg-permalink":"workflow","permalink":"/workflow/","dgHomeLink":false}
 ---
 
 # Workflow
