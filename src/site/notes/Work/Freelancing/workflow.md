@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/work/freelancing/workflow/"}
+{"dg-publish":true,"dg-permalink":"workflow","permalink":"/workflow/"}
 ---
 
 # Workflow
