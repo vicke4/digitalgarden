@@ -33,7 +33,7 @@ You can use Wise to transfer funds. If you don't already have a Wise account, yo
 
 After signing up, provide the details they may require.
 
-Now, from their dashboard. click on **Send money**, the recipient current should be **INR**. Then, click continue → Someone else.
+Now, from their dashboard, click on **Send money**, the recipient current should be **INR**. Then, click continue → Someone else.
 
 
 | Recipient details             |                                                                                  |
