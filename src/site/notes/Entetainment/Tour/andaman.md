@@ -25,10 +25,12 @@ Hotel Mainak: +918001236000
 		- For seashore sight seeing
 	- Cove beach for water sport activities.
 	- Island by ferries from Marina park
-		- Rose island
+		- Ross island
 			- Can be explored on foot.
+			- Ruins of British rule.
+			- Deers & Peacocks.
 		- North bay island
-			- Dolphine boat ride.
+			- Dolphine boat ride. (₹900/person)
 				- Not worth it if you are going for snorkeling & scuba diving.
 			- Water activities.
 - Havelock Island (Swaraj dweep)
@@ -58,6 +60,7 @@ Hotel Mainak: +918001236000
 	- Laxmanpur beach
 		- Beautiful sunset.
 		- Must visit due to the abundance of marine life & corals during low tide.
+		- Only visit during low tide to view sea animals.
 		- Can take guides.
 			- Recommended to know about Marine creatures.
 			- ₹500 per trip.
@@ -74,17 +77,10 @@ Hotel Mainak: +918001236000
 - [Bonova cafe]() Havlock.
 - Candle light dinner is available usually.
 
-## Stay
-- Portblair
-	- Hotel Mainak
-	- The seaview restaurant
-- Havelock
-	- [Aparupa Sands Marina]()
-	- 
-
 ## Things to remember
 - Take sunscreens, hats, sunglasses.
 - Only Airtel & BSNL. BSNL works best. Only 3G.
+- Have contact lenses for best scuba diving experience.
 - Island to Island travel is through water.
 	- Two options - Ferries, Cruises. Ferries are cheaper.
 		- Private Cruise options - Green Ocean & Makruzz
@@ -109,3 +105,58 @@ Scuba diving for 2 - ₹9,000
 Sovenir shopping - ₹9,000
 
 Food separate
+
+## Transportation options
+- Scooty
+- Private cab
+- Taxis
+
+## Our plan
+
+### Day 1:
+- Reach PortBlair
+- [Cellular jail](https://goo.gl/maps/AMd4G6WDgQAWBKbZ8) visit - 9AM to 12:30PM & 1.30PM to 5PM.
+- [Marina Park](https://goo.gl/maps/dKDrgN2VYieFfjsc7) in the evening after jail visit
+- Could go to Cove beach (5kms from Marina park)
+- Night stay at PortBlair
+
+### Day 2:
+- One ride covers [Ross Island](https://goo.gl/maps/VoSYvsoiwusHodUTA) and [North bay Island](https://goo.gl/maps/1ugDLJTXEYCBK7Mv5).
+- North bay island scuba diving can be done.
+- Can have lunch in Northbay island.
+- Water sports activities are there.
+- Night stay at PortBlair.
+
+### Day 3:
+- Reach Havelock from PortBlair.
+- Can do Scuba diving here.
+- Chill in beachfront restaurant.
+- Night stay in Havelock
+
+### Day 4:
+- [Elephant beach](https://goo.gl/maps/U7a4CmNj9gvSaZUf9).
+- [Radhanagar beach](https://goo.gl/maps/jYhvB3tqdNkNWQTRA) during sunset.
+- Night stay in Havelock
+
+### Day 5:
+- To Neil island
+- [Bharatpur beach](https://goo.gl/maps/ib9sJ671j8BkEAkF9).
+- [Laxmanpur beach 1](https://goo.gl/maps/tUbEdrVazf8T7Ypx6) for sunset.
+- Night stay in Neil island.
+
+### Day 6:
+- [Laxmanpur beach 2](https://goo.gl/maps/tF1BA9QzYbWev4XG7)
+- Take guide to know about the sea life here.
+- Return to PortBlair.
+- Explore PortBlair.
+- Night stay in PortBlair.
+
+### Day 7:
+- Return home.
+
+## Stay plan
+- Portblair
+	- Hotel Mainak
+	- The seaview restaurant
+- Havelock
+	- [Aparupa Sands Marina]()
