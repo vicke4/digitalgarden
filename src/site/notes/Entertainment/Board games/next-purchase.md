@@ -1,7 +1,7 @@
 ---
 {"dg-publish":true,"dg-permalink":"board-games/uk-haul","permalink":"/board-games/uk-haul/"}
 ---
-| Game name                 | Dimensions (cms)   | Weight (kgs) | Small box |
+| Game                | Dimensions (cms)   | Weight (kgs) | Small box |
 | ------------------------- | ------------------ | ------------ | --------- |
 | Inis                      | 39.6 x 27.6 x 7.9  | 1            | No        |
 | The Quacks of Quedlinburg | 29.7 x 29.7 x 7.1  | 1.4          | No        |
