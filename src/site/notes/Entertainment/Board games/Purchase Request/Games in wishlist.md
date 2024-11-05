@@ -18,5 +18,6 @@
 | Spirit Island - Jagged earth        | 29.3 x 29.3 x 8.1 | 2.2          | No        |
 | Huang                               | 29.7 x 29.7 x 7.1 | 1.5          | No        |
 | Furnace                             | 27.7 x 19.4 x 6.7 | 0.6          | No        |
-|                                     | Total             | 9.4          |           |
+| El Grande                           | 29.7 x 29.7 x 7.1 | 1.1          | No        |
+|                                     | Total             | 10.5         |           |
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
